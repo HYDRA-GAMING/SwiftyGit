@@ -1,4 +1,0 @@
-# SwiftyGit #
-
-
-npm i 
